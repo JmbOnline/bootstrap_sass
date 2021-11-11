@@ -1,0 +1,27 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-ico_star {
+    width: 36px;
+    height: 36px;
+    background-position: -4px -4px;
+}
+
+.sprite-logo {
+    width: 88px;
+    height: 88px;
+    background-position: -48px -4px;
+}
+
+.sprite-search_btn {
+    width: 84px;
+    height: 84px;
+    background-position: -144px -4px;
+}
+
+<i class="sprite sprite-ico_star"></i>
+<i class="sprite sprite-logo"></i>
+<i class="sprite sprite-search_btn"></i>

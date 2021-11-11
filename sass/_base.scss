@@ -1,0 +1,18 @@
+//split image
+.sprite {
+    background-image: url(../img/spritesheet.png);
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+    display: block;
+    
+    &__ico--star {
+        width: 36px;
+        height: 36px;
+        background-position: -4px -4px;
+    }
+    &__search--btn {
+        width: 84px;
+        height: 84px;
+        background-position: -144px -4px;
+    }
+}

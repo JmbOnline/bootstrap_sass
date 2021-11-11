@@ -1,0 +1,15 @@
+<svg id="search_btn" xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 42 42">
+  <path id="btn_squer" d="M4,0H38a4,4,0,0,1,4,4V38a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" fill="#eb5e55"/>
+  <g id="ico_search" transform="translate(9 9)">
+    <g id="그룹_13" data-name="그룹 13" transform="translate(2 2)">
+      <g id="그룹_11" data-name="그룹 11">
+        <path id="패스_3" data-name="패스 3" d="M-4.224,301.1a7.572,7.572,0,0,1-7.563-7.563,7.572,7.572,0,0,1,7.563-7.564,7.572,7.572,0,0,1,7.564,7.564A7.572,7.572,0,0,1-4.224,301.1Zm0-13.309a5.752,5.752,0,0,0-5.745,5.746,5.751,5.751,0,0,0,5.745,5.745,5.752,5.752,0,0,0,5.746-5.745A5.753,5.753,0,0,0-4.224,287.789Z" transform="translate(11.787 -285.971)" fill="#fff"/>
+      </g>
+      <g id="그룹_12" data-name="그룹 12" transform="translate(11.364 11.356)">
+        <line id="선_3" data-name="선 3" x2="6.818" y2="6.825" transform="translate(0.909 0.909)" fill="#fff"/>
+        <path id="패스_4" data-name="패스 4" d="M7.3,305.971a.9.9,0,0,1-.643-.267l-6.819-6.825a.909.909,0,0,1,1.287-1.285l6.818,6.825a.91.91,0,0,1-.643,1.552Z" transform="translate(0.423 -297.327)" fill="#fff"/>
+      </g>
+    </g>
+    <rect id="사각형_33" data-name="사각형 33" width="24" height="24" transform="translate(0 -0.114)" fill="none"/>
+  </g>
+</svg>
